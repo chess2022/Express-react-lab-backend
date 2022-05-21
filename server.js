@@ -1,7 +1,7 @@
 // Import dependencies
 const express = require("express")
 const cors = require("cors");
-const PORT = process.send.PORT || 4000
+const PORT = process.env.PORT || 4000
 
 // Import json files
 const projects = require("./projects.json")

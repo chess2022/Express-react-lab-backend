@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bartini Time",
+    "live": "https://app.netlify.app/whatever",
+    "git": "https://github.com/chess2022/Bartini_Time_Cocktail_App",
+    "image": "https://github.com/chess2022/Bartini_Time_Cocktail_App/blob/Main/assets/Bartini_Time_Main.png"
+  },
+  {
+    "name": "Pokedex",
+    "live": "https://app.herokuapp.com/whatever",
+    "git": "https://github.com/chess2022/pokedex-lab",
+    "image": "http://www.imgur.com/pictureofproject.png"
+  },
+  {
+    "name": "Beautiful Blooms",
+    "live": "https://app.netlify.app/whatever",
+    "git": "https://github.com/chess2022/Mongoose_Store",
+    "image": "http://www.imgur.com/pictureofproject.png"
+  },
+  {
+    "name": "Hike Mount Rainier",
+    "live": "https://mt-rainier-day-hikes.herokuapp.com/",
+    "git": "https://github.com/chess2022/PNW_Hiking",
+    "image": "https://github.com/chess2022/PNW_Hiking/blob/main/public/images/screenshots/index.png"
+  }
+]

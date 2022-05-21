@@ -10,6 +10,7 @@ const about = require("./about.json")
 // Set up middleware
 
 const app = express();
+app.use(cors())
 
 // ROUTES 
 // home for testing

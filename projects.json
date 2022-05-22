@@ -1,15 +1,17 @@
 [
   {
     "name": "Bartini Time",
-    "live": "https://app.netlify.app/whatever",
+    "live": "https://chess2022.github.io/Bartini_Time_Cocktail_App/",
     "git": "https://github.com/chess2022/Bartini_Time_Cocktail_App",
-    "image": "https://github.com/chess2022/Bartini_Time_Cocktail_App/blob/Main/assets/Bartini_Time_Main.png"
+    "image": "./images/bartini_screenshot.png",
+    "bigImage": "./images/cocktails.png"
   },
   {
     "name": "Pokedex",
     "live": "https://app.herokuapp.com/whatever",
     "git": "https://github.com/chess2022/pokedex-lab",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "image": "./images/pokedex_screenshot.png",
+    "bigImage": "./images/pokemon_header.jpg"
   },
   {
     "name": "Beautiful Blooms",

@@ -20,8 +20,8 @@
     "name": "Beautiful Blooms",
     "live": "https://app.netlify.app/whatever",
     "git": "https://github.com/chess2022/Mongoose_Store",
-    "image": "./images/flower_screenshot.png",
-    "bigImage": "./images/flower_background.jpg"
+    "image": "/images/flower_screenshot.png",
+    "bigImage": "/images/flower_background.jpg"
   },
   {
     "key": 4,

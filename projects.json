@@ -5,7 +5,8 @@
     "live": "https://chess2022.github.io/Bartini_Time_Cocktail_App/",
     "git": "https://github.com/chess2022/Bartini_Time_Cocktail_App",
     "image": "https://i.imgur.com/ewn4sLC.png",
-    "bigImage": "https://i.imgur.com/ZuQnHNE.png"
+    "bigImage": "https://i.imgur.com/ZuQnHNE.png",
+    "thumb": "https://i.imgur.com/sDgCrZz.png"
   },
   {
     "key": 2,
@@ -13,7 +14,8 @@
     "live": "https://app.herokuapp.com/whatever",
     "git": "https://github.com/chess2022/pokedex-lab",
     "image": "https://i.imgur.com/gUA4Uku.png",
-    "bigImage": "https://i.imgur.com/2TDlMIE.jpg"
+    "bigImage": "https://i.imgur.com/2TDlMIE.jpg",
+    "thumb": "https://i.imgur.com/CGvTIPU.jpg"
   },
   {
     "key": 3,
@@ -21,7 +23,8 @@
     "live": "https://app.netlify.app/whatever",
     "git": "https://github.com/chess2022/Mongoose_Store",
     "image": "https://i.imgur.com/5sLCb4C.png",
-    "bigImage": "https://i.imgur.com/bNF1chA.jpg"
+    "bigImage": "https://i.imgur.com/bNF1chA.jpg",
+    "thumb": "https://i.imgur.com/83JCmPn.jpg"
   },
   {
     "key": 4,
@@ -29,6 +32,7 @@
     "live": "https://mt-rainier-day-hikes.herokuapp.com/",
     "git": "https://github.com/chess2022/PNW_Hiking",
     "image": "https://i.imgur.com/4gCUQkG.png",
-    "bigImage": "https://i.imgur.com/oFd2gWw.jpg"
+    "bigImage": "https://i.imgur.com/oFd2gWw.jpg",
+    "thumb": "https://i.imgur.com/WDwJTcE.jpg"
   }
 ]

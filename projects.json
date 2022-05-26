@@ -6,7 +6,8 @@
     "git": "https://github.com/chess2022/Bartini_Time_Cocktail_App",
     "image": "https://i.imgur.com/ewn4sLC.png",
     "bigImage": "https://i.imgur.com/ZuQnHNE.png",
-    "thumb": "https://i.imgur.com/sDgCrZz.png"
+    "thumb": "https://i.imgur.com/sDgCrZz.png",
+    "description": "My first simple web application built with HTML, CSS, JavaScript and jQuery. I used AJAX to make a request to an external data source API. This app allows the user to search for drink recipes by ingredient or spirit and get the individual drink recipe."
   },
   {
     "key": 2,
@@ -15,7 +16,8 @@
     "git": "https://github.com/chess2022/pokedex-lab",
     "image": "https://i.imgur.com/gUA4Uku.png",
     "bigImage": "https://i.imgur.com/2TDlMIE.jpg",
-    "thumb": "https://i.imgur.com/CGvTIPU.jpg"
+    "thumb": "https://i.imgur.com/CGvTIPU.jpg",
+    "description": "A full CRUD app utilizing JavaScript, Node/Express, HTML and CSS. The goal of this project was to display all Pokemon from the data file, show details, add new, edit existing, and delete a Pokemon."
   },
   {
     "key": 3,
@@ -24,7 +26,8 @@
     "git": "https://github.com/chess2022/Mongoose_Store",
     "image": "https://i.imgur.com/5sLCb4C.png",
     "bigImage": "https://i.imgur.com/bNF1chA.jpg",
-    "thumb": "https://i.imgur.com/83JCmPn.jpg"
+    "thumb": "https://i.imgur.com/83JCmPn.jpg",
+    "description": "This 'store' app is a product inventory manager with full CRUD using Mongoose. It utilizes JavaScript, Express/Node, MongoDB/Mongoose. This app allows the user to 'shop' for flower seeds/bulbs/roots and also update the quantities, prices, and other details. While not practical for all users to have the ability to utilize these functionalities, this app was just an example of the different technologies and methods I had learned up to that point. Authentication comes in my next project."
   },
   {
     "key": 4,
@@ -33,6 +36,7 @@
     "git": "https://github.com/chess2022/PNW_Hiking",
     "image": "https://i.imgur.com/4gCUQkG.png",
     "bigImage": "https://i.imgur.com/oFd2gWw.jpg",
-    "thumb": "https://i.imgur.com/WDwJTcE.jpg"
+    "thumb": "https://i.imgur.com/WDwJTcE.jpg",
+    "description": "My first full stack application utilizing Node/Express/MongoDB and built from the ground up. This hiking app allows the user to create an account, search for local hiking trails and save them to their personal dashboard. Additionally, each user can add notes on each saved hike for pre-trip planning or other thoughts about the hiking trail they would like to save. Future goal is to connect to a third-party API (National Park Service) in order to expand the current list of hiking trails."
   }
 ]
